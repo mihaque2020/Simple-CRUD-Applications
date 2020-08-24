@@ -1,0 +1,5 @@
+Batman Begins::2005::PG-13::Christopher Nolan::Warner Bros. Pictures::Action Packed
+Rust Creek::2019::M::Jen McGowan::IFC Films::Interesting
+A Dog's Way Home::2019::E::Charles Martin Smith::Columbia Pictures::Cute
+Close::2019::M::Vicky Jewson::Netflix::Thrilling
+Alan-test::2016::G::Minul::mthree::What will happepn?
